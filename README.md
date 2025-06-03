@@ -6,4 +6,4 @@
 
 ---
 
-*(Feel free to visit our website → <https://boom-bust-group.com>)*  
+*(Feel free to visit our website → [boombustgroup.com](https://www.boombustgroup.com/))*  
