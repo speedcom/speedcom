@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="assets/network_cascade.gif" alt="Automation cascade spreading through a 10,000-firm network" width="100%"/>
-
-</div>
-
 ---
 
 ## Boom Bust Group
@@ -62,9 +56,3 @@ A stock-flow consistent agent-based model (SFC-ABM) with **10,000 heterogeneous 
 
 ---
 
-### Tech Stack
-
-![Scala](https://img.shields.io/badge/Scala_3-DC322F?logo=scala&logoColor=white)
-![Python](https://img.shields.io/badge/Python_3-3776AB?logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/XeLaTeX-008080?logo=latex&logoColor=white)
-![sbt](https://img.shields.io/badge/sbt-1.10-blue)
