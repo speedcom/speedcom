@@ -1,5 +1,3 @@
----
-
 ## Boom Bust Group
 
 **A quantitative investment firm built by scientists and engineers**
