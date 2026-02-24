@@ -2,14 +2,6 @@
 
 <img src="assets/network_cascade.gif" alt="Automation cascade spreading through a 10,000-firm network" width="100%"/>
 
-<br/>
-
-# Hi, I'm Maciej
-
-**Quantitative finance & complexity economics**
-
-Building agent-based models of AI-driven labor market transitions — where statistical physics meets macroeconomic policy.
-
 </div>
 
 ---
