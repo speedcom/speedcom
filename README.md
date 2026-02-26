@@ -14,7 +14,7 @@
 
 [![complexity-econ](https://img.shields.io/badge/GitHub_Org-complexity--econ-181717?logo=github)](https://github.com/complexity-econ)
 
-A stock-flow consistent agent-based model (SFC-ABM) with **10,000 heterogeneous firms** across **6 sectors**, calibrated to the Polish economy (GUS 2024). Five published papers and **40,000+ Monte Carlo simulations** exploring how universal basic income, monetary regimes, and network topology interact to produce **phase transitions in automation adoption**.
+A stock-flow consistent agent-based model (SFC-ABM) with **10,000 heterogeneous firms** and **100,000 individual households** across **6 sectors**, calibrated to the Polish economy (GUS 2024). Six papers and **41,800+ Monte Carlo simulations** exploring how universal basic income, monetary regimes, network topology, and household heterogeneity interact to produce **phase transitions in automation adoption**.
 
 <div align="center">
 
@@ -33,6 +33,7 @@ A stock-flow consistent agent-based model (SFC-ABM) with **10,000 heterogeneous 
 | 3 | **Empirical CES &sigma; Estimation** | 120 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18743780.svg)](https://doi.org/10.5281/zenodo.18743780) | [PDF](https://github.com/complexity-econ/paper-03-empirical-sigma/blob/main/latex/paper_en.pdf) |
 | 4 | **Phase Diagram & Universality** | 18,540 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18751083.svg)](https://doi.org/10.5281/zenodo.18751083) | [PDF](https://github.com/complexity-econ/paper-04-phase-diagram/blob/main/latex/paper_en.pdf) |
 | 5 | **Endogenous Technology & Network Dynamics** | 10,080 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18758365.svg)](https://doi.org/10.5281/zenodo.18758365) | [PDF](https://github.com/complexity-econ/paper-05-endogenous/blob/main/latex/paper_en.pdf) |
+| 6 | **Heterogeneous Households & Limits of UBI** | 1,500 | *pending* | [PDF](https://github.com/complexity-econ/paper-06-heterogeneous-households/blob/main/paper/paper.pdf) |
 
 **Engine**: [`core`](https://github.com/complexity-econ/core) &mdash; reusable Scala 3 SFC-ABM engine
 
@@ -43,6 +44,8 @@ A stock-flow consistent agent-based model (SFC-ABM) with **10,000 heterogeneous 
 - **&sigma; calibration doesn't** &mdash; 5&ndash;9&times; change in CES elasticity shifts adoption by only 1.5 pp; monetary regime dominates (&Delta; 6 pp)
 - **Topology universality** &mdash; BDP<sub>c</sub> = 500 PLN across all four network topologies (WS, ER, BA, lattice); mean-field critical exponent &gamma; &approx; 1.0
 - **Endogenization preserves universality** &mdash; Arthur-style learning + preferential rewiring keep the reentrant shape; BDP<sub>c</sub> shifts by at most 250 PLN
+- **Aggregate metrics mask destruction** &mdash; BDP<sub>c</sub> = 500 appears as a "sweet spot" in aggregates but is the point of peak bankruptcy (17.3%), peak poverty (45%), and peak income Gini (0.50) at the household level
+- **Scarring catch-22** &mdash; unemployment erodes skills and health, making retraining least effective for those who need it most &mdash; even doubled intensity yields only 18% success
 
 <div align="center">
 
