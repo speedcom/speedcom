@@ -1,4 +1,4 @@
-## Boom Bust Group
+## 🏛️ Boom Bust Group
 
 **A quantitative investment firm built by scientists and engineers**
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Amor Fati
+## ⚙️ Amor Fati
 
 **Stock-flow consistent agent-based macroeconomic engine** — a closed-economy simulation of the Polish economy built from the bottom up. Thousands of heterogeneous agents (households, firms, banks, central bank, government) interact through markets while strict accounting identities are enforced every simulated month.
 
@@ -21,7 +21,7 @@
 
 ---
 
-## Complexity Economics Research
+## 🧬 Complexity Economics Research
 
 [![complexity-econ](https://img.shields.io/badge/GitHub_Org-complexity--econ-181717?logo=github)](https://github.com/complexity-econ)
 
