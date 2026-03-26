@@ -10,6 +10,17 @@
 
 ---
 
+## Amor Fati
+
+**Stock-flow consistent agent-based macroeconomic engine** — a closed-economy simulation of the Polish economy built from the bottom up. Thousands of heterogeneous agents (households, firms, banks, central bank, government) interact through markets while strict accounting identities are enforced every simulated month.
+
+| Repository | Description |
+|------------|-------------|
+| [`amor-fati`](https://github.com/boombustgroup/amor-fati) | SFC-ABM engine — counterfactual macro-policy analysis without representative-agent assumptions |
+| [`amor-fati-ledger`](https://github.com/boombustgroup/amor-fati-ledger) | Formally verified (Stainless + Z3) double-entry flow interpreter |
+
+---
+
 ## Complexity Economics Research
 
 [![complexity-econ](https://img.shields.io/badge/GitHub_Org-complexity--econ-181717?logo=github)](https://github.com/complexity-econ)
