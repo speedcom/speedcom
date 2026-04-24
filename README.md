@@ -1,4 +1,4 @@
-## 🏛️ Boom Bust Group
+## 🏛️ BoomBustGroup
 
 **A quantitative investment firm built by scientists and engineers**
 
